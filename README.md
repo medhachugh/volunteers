@@ -8,3 +8,5 @@ It uses the following stack as of now:
 2. github-pages   
 
 If you want to contribute to it, check out the [contributing guidelines](CONTRIBUTING.md)
+
+Also, check out the [template](TEMPLATE.md)
